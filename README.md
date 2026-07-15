@@ -1,25 +1,37 @@
-# Vynica 🍓
+# 🍓 Vynica Bot — Your All-in-One Server Companion!
 
-**Vynica** is an all-in-one Discord bot — relationships, an economy, cross-server chat, moderation, and image tools, all under one `+` prefix. No need to stack ten single-purpose bots.
+Versatile bot with image enhancement, economy, spam blocking, emojis and many more.
+
+Tired of adding 10 bots for 10 different features? Meet **Vynica**, the unique multi-purpose bot designed to bring exclusive functionality and a vibrant community atmosphere to your server.
 
 🌐 **Website:** [vynicabot.site.je](https://vynicabot.site.je/)
 🤖 **Add to Discord:** [Invite Vynica](https://discord.com/oauth2/authorize?client_id=1182053086513074207)
+📖 **Commands:** [vynicabot.site.je/commands](https://vynicabot.site.je/commands/)
 
-## What it does
+## 🌟 Here's what makes Vynica special
 
-- 💞 **Relationships & Fun** — marry, adopt, befriend, or claim a pet
-- 🎲 **Economy & Gambling** — daily claims, coinflip, slots, coinchoose
-- ⚔️ **Battle & Pets** — build a team and challenge other users
-- 🔗 **Cross-Server Chat** — connect two servers or DM-match with someone new
-- 🛡️ **Moderation** — automod, mutes, suspensions, link blocking
-- 🎨 **Creativity & Utility** — gifify, frame, emoji tools, and more
-- 🍁 **Community Extras** — welcome messages, quizzes, a private vault
+**💞 Relationship & Fun**
+Form lasting bonds with `+marry` and `+adopt`, enjoy a variety of SFW roleplay commands, and break the ice with truth or dare.
 
-Full command list and tutorials: [vynicabot.site.je/commands](https://vynicabot.site.je/commands/)
+**🎲 Economy & Entertainment**
+Dive into a full economy system! Work for cash, gamble with coinflip and slots, rob your friends, and spend your earnings in the shop.
 
-## About this repo
+**🔗 Advanced Communication**
+Our exclusive cross-server chat lets you connect and talk to users in other servers or in private 1-on-1 conversations, complete with emoji and avatar support!
 
-This repo hosts the source for Vynica's website — the landing page and command reference shown at the link above. It's not actively maintained here; check the live site for the latest.
+**🛡️ Powerful Moderation**
+Keep your server safe effortlessly. Our automod deletes offensive language, bad words, and spam links automatically.
+
+**🎨 Creativity & Utility**
+Use emojis from any server, increase image quality, create memes, send stickers, and bomb commands for fun!
+
+**🍁 Plus**
+Welcome/Goodbye messages, premade rules, quizzes, games, and active, friendly vibes!
+
+## Quick Start
+
+- **Prefix:** `+`
+- **Help Command:** `+anyahelp`
 
 ---
 
